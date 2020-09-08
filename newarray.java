@@ -22,7 +22,7 @@ public class newarray{
             for(i=0; i<size; i++){
                 System.out.println(ele[i]);
             }
-    } 
+    }
 }
 }
 /*2
